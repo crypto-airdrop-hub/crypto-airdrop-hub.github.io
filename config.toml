@@ -1,5 +1,8 @@
+# https://gohugo.io/templates/embedded/#google-analytics
+googleAnalytics = 'G-ECZ4CTJ7DD'
+
 baseURL = 'https://crypto-airdrop-hub.github.io'
-title = '加密货币空投中心 | Crypto Airdrop Hub'
+title = '加密货币空投中心'
 theme = 'hugo-book'
 defaultContentLanguage = 'zh'
 
@@ -64,7 +67,7 @@ enableGitInfo = true
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/chatgpt-studio/chatgpt-studio.github.io'
+  BookRepo = 'https://github.com/crypto-airdrop-hub/crypto-airdrop-hub.github.io'
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
