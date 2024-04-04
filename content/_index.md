@@ -11,3 +11,5 @@ summary: "加密货币空投中心"
 ## 进行中
 
 - [参与 Mirror L2 空投](/docs/mirrorl2/)
+
+- [参与 Ola 空投](docs/ola/)
