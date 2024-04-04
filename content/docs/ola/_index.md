@@ -27,7 +27,7 @@ bookFlatSection: true
 
 1. 打开谷歌浏览器，先登录 [Twitter][twitter]；安装 [MetaMask 谷歌浏览器扩展][metamask-chrome] 并创建一个钱包
 
-2. 打开 <a href="https://olavm.org/massive?minerCode=3YBAS4" target="_blank">Ola</a> 官网，完成下面步骤
+2. 打开 <a href="https://olavm.org/massive?minerCode=3YBAS4" target="_blank">Ola 官网</a>，完成下面步骤
     {{< figure src="/docs/ola/imgs/0.png" width="80%" >}}
 
 3. 上述做完之后，你就**获得 30 个积分**了
@@ -40,7 +40,7 @@ bookFlatSection: true
 
 1. 下载并安装 [Massive App][massive-apk]（现在只支持安卓）
 
-2. 在 <a href="https://olavm.org/massive?minerCode=3YBAS4" target="_blank">Ola</a> 官网复制你的钱包地址
+2. 在 <a href="https://olavm.org/massive?minerCode=3YBAS4" target="_blank">Ola 官网</a> 复制你的钱包地址
     {{< figure src="/docs/ola/imgs/1.png" width="80%" >}}
 
 3. 打开软件，输入你的钱包地址，开始挖
