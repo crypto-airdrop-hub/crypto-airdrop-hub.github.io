@@ -76,14 +76,14 @@ bookFlatSection: true
     {{< figure src="/docs/mirrorl2/imgs/10.png" width="80%" >}}
     {{< figure src="/docs/mirrorl2/imgs/11.png" width="80%" >}}
 
-5. 点击你的 `UniSat` 钱包，点击 `Send` 向复制的地址支付 `0.00001` 个 BTC，然后等待交易完成，一般需要 1 个小时，
+5. 点击你的 `UniSat` 钱包，点击 `Send` 向复制的地址支付 `0.00001` 个 BTC，然后等待交易完成，一般需要 1 个小时，你的 ETH 钱包将得到 `0.00001` 个 mBTC
     {{< figure src="/docs/mirrorl2/imgs/12.png" width="80%" >}}
     {{< figure src="/docs/mirrorl2/imgs/13.png" width="80%" >}}
 
-6. 支付完成后，**你就获得 10 个积分了**，你可以重复上述步骤获取更多的积分
-
-7. （可选）每做一次上述转账测试，你的 ETH 钱包将得到 `0.00001` 个 mBTC，你可以通过点击 `Redeem` 赎回你的 BTC 用于下一次转账测试
+6. 点击 `Redeem`，输入你的 BTC 钱包地址，赎回你的 BTC
     {{< figure src="/docs/mirrorl2/imgs/14.png" width="80%" >}}
+
+7. 完成后，**你就获得 10 个积分了**，你可以重复上述步骤获取更多的积分
 
 好了，等着收钱吧
 
