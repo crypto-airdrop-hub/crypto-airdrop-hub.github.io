@@ -11,9 +11,11 @@ bookFlatSection: true
 
 # 参与 Mirror L2 空投
 
+> **注意**：目前测试网络任务已经结束，但你仍然可以通过投票和转发推文以及邀请好友获取积分
+
 ## 一 概述
 
-参与活动，参与者根据获得的**积分**的占比分 1500 万代币
+参与活动，参与者根据获得的**积分**的占比分 1500 万代币期权
 
 > Mirror L2：为 BTC L2 项目提供真正去中心化且安全的比特币质押解决方案，是一种去中心化的权益证明网络，兼容 EVM 和智能合约，并使用 BTC 作为 Gas。与 ETH L2 的 Rollup 不同，Mirror 的设计方式依赖于从 BTC L1 中质押资产来确保 L2 的安全性。目前，Mirror L2 已完成来自 UTXO、Conflux 和 IMO Ventures 的首轮融资。项目虽处于早期阶段，但前景广阔
 
@@ -41,15 +43,18 @@ bookFlatSection: true
     {{< figure src="/docs/mirrorl2/imgs/3.png" width="80%" >}}
     {{< figure src="/docs/mirrorl2/imgs/4.png" width="80%" >}}
 
-好了，至此，你已经**快速参与**了此次空投，等着收钱吧
+5. 你也可以邀请好友获得更多积分
+
+好了，至此，你已经**快速参与**了此次空投，加入[官方 TG][ml2-tg]，等着收钱吧
 
 
 [twitter]: https://twitter.com/
 [ml2-twitter]: https://twitter.com/Mirror_L2
+[ml2-tg]: https://t.me/+vpLBfs5KutwxMTE1
 
 ---
 
-## 三 深度参与
+## 三 深度参与：测试网络
 
 > 需要花点时间，完成投票和转发后，帮助测试网络进行转账测试，**每交易成功 1 次获得 10 积分，无上限**
 
