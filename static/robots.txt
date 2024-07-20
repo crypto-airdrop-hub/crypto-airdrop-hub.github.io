@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crypto-airdrop-hub.github.io/sitemap.xml
