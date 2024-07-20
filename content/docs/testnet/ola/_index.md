@@ -1,13 +1,20 @@
 ---
-title: Ola
-weight: 1
+title: 区块链开发者带你撸空投：Ola Massive 测试网
+sitemap:
+  priority: 0.6
+  changefreq: "hourly"
+keywords:
+- Ola Network
+- Massive 测试网
+- 教程
+- 区块链
+slug: ola-massive-testnet-tutorial
+description: "区块链开发者带你撸空投：参加 Ola Massive 测试网活动，获取空投奖励"
+weight: 3
 bookToc: true
-bookFlatSection: true
+# bookFlatSection: true
+summary: "Ola Massive 测试网教程"
 ---
-
-参与 Ola 空投
-
-<!--more-->
 
 # 参与 Ola 空投
 
@@ -54,3 +61,7 @@ bookFlatSection: true
 [metamask-chrome]: https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
 [massive-apk]: https://ola-static-file.s3.ap-southeast-1.amazonaws.com/massive.release.apk
 [massive-qa]: https://medium.com/@ola_zkzkvm/faqs-on-massive-invitation-code-c52fdb6f6e21
+
+
+---
+> 加入 *[区块链开发交流群](https://t.me/+ZOQ2jcLKI3hkNjFl)* 获取更多信息（自动化工具、空投信息分享，探讨区块链开发...）
