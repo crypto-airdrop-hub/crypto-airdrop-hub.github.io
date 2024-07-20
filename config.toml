@@ -39,7 +39,7 @@ enableGitInfo = true
 # [[menu.before]]
 [[menu.after]]
   name = "关于"
-  url = "https://github.com/crypto-airdrop-hub/"
+  url = "https://t.me/blockchain_minter"
   weight = 10
 
 [params]
