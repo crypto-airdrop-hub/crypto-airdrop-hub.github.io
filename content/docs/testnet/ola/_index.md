@@ -34,7 +34,7 @@ summary: "Ola Massive 测试网教程"
 1. 打开谷歌浏览器，先登录 [Twitter][twitter]；安装 [MetaMask 谷歌浏览器扩展][metamask-chrome] 并创建一个钱包
 
 2. 打开 <a href="https://olavm.org/massive?minerCode=3YBAS4" target="_blank">Ola 官网</a>，完成下面步骤（邀请码：`3YBAS4`）
-    {{< figure src="/docs/ola/imgs/0.png" width="80%" >}}
+    {{< figure src="/docs/testnet/ola/imgs/0.png" width="80%" >}}
 
 3. 上述做完之后，你就**获得 30 个积分**了
 
@@ -49,10 +49,10 @@ summary: "Ola Massive 测试网教程"
 1. 下载并安装 [Massive App][massive-apk]（现在只支持安卓）
 
 2. 在 <a href="https://olavm.org/massive?minerCode=3YBAS4" target="_blank">Ola 官网</a> 复制你的钱包地址
-    {{< figure src="/docs/ola/imgs/1.png" width="80%" >}}
+    {{< figure src="/docs/testnet/ola/imgs/1.png" width="80%" >}}
 
 3. 打开软件，输入你的钱包地址，开始挖
-    {{< figure src="/docs/ola/imgs/2.png" width="80%" >}}
+    {{< figure src="/docs/testnet/ola/imgs/2.png" width="80%" >}}
 
 4. 你可以一直在后台运行着，得更多积分。放心，该 App 不会减慢手机速度，也不会访问或收集任何用户的私人信息，[常见问题解答][massive-qa]）
 
