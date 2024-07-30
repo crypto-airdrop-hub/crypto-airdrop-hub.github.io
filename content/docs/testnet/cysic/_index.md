@@ -24,9 +24,38 @@ summary: "Cysic 测试网教程"
 - Cysic Network 是一种动态协议，提供一站式零知识证明和验证功能。协议参与者可以通过为协议贡献计算能力、质押和参与治理来获得奖励。
 - Cysic 在 ZK 硬件加速赛道上拥有压倒性的速度优势，服务 ZK 赛道 50 多个头部项目，拥有超过 10 万颗 3090/4090 GPU 储备，目前已完成 1800 万美元融资。
 
-### 一、测试网教程
+### 一、测试网教程（使用 Docker）
 
-*测试网上线后，立刻更新...*
+> 对 [官方教程](https://medium.com/@cysic/join-the-cysic-testnet-as-a-verifier-7b9f31674b41) 的补充：使用 Docker 运行 Verifier，参与 Cysic 测试网
+
+- 镜像基于官方提供二进制文件构建，构建过程完全开源 ( [GitHub](https://github.com/whoami39/blockchain-tools/tree/main/cysic/verifier) )，无任何风险
+- 自动重启，不用担心掉线
+
+#### 安装 Docker
+
+- 适用于国内：https://mirrors.tuna.tsinghua.edu.cn/help/docker-ce/
+- 官方教程：https://docs.docker.com/engine/install/
+
+#### 运行
+
+新建 `docker-compose.yml` 文件（注意填写你的 EVM 地址）
+
+```yml
+services:
+  verifier:
+    image: whoami39/cysic-verifier:latest
+    environment:
+      - EVM_ADDR="<your-evm-address>"
+    volumes:
+      - ./data/data:/app/data
+      - ./data/cysic/:/root/.cysic/
+      - ./data/scroll_prover:/root/.scroll_prover
+    network_mode: "host"
+    restart: unless-stopped
+```
+执行 `docker compose up -d` 即可后台启动
+
+你可以通过 `docker compose logs -f` 命令查看当前容器的运行日志
 
 ### 二、整体规划
 
